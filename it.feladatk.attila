@@ -1,0 +1,81 @@
+1. Igaz-e a következő állítás? A feszültségmérőt a fogyasztóval sorosan kell bekötni az áramkörbe. Megoldás: Hamis
+hamis
+igaz
+
+2. Hol állítható be egy számítógépen, hogy ne merevlemezről, hanem optikai meghajtóról töltsön be? (2 jó válasz) Megoldás: BIOS, UEFI
+BIOS
+UEFI
+CMOS
+POST
+BootFlash
+
+3. Melyik Windows alkalmazás segítségével lehet leállítani egy nem reagáló (lefagyott) programot? Megoldás: Feladatkezelő
+Feladatkezelő
+Windows Defender
+Feladatütemező
+Eszközkezelő
+
+4. Igaz vagy hamis? A Windows telepítésekor létrejön egy rendszergazdai fiók, de csak a Windows aktiválása után
+lehet használni. Megoldás: Hamis
+hamis
+igaz
+
+5. azalábbiak közül melyik rövidítés nem a megjelenítéshez kapcsolódó technológia? Megoldás: SCSI
+SCSI
+DVI
+HDMI
+VGA
+
+6 Melyik nem a szoftveres megelőző karbantartási folyamat része? Megoldás: Tűzfalprogram beállítása
+Tűzfalprogram beállítása
+Nem használt programok törlése
+Vírusdefiníciós fájlok frissítése
+Merevlemezek hibakeresése és töredezettségmentesítése
+
+7 Melyik felhőtípusra igaz, hogy a teljes rendszer (hardver és szoftver) a felhőszolgáltató tulajdona, de interneten
+keresztül hozzáférhető? Megoldás: Nyilvános felhő
+Nyilvános felhő
+Magánfelhő
+Hibrid felhő
+Mindegyikre igaz
+
+8 Melyik parancs menti el a git verziókezelő adatbázisába a fájlokon végzett módosításokat? Megoldás: git commit
+git commit
+git clone
+git add
+git init
+
+9 Melyik eszköz periféria? Megoldás: Billentyűzet 
+CPU
+monitor
+USB port
+Billentyűzet 
+
+10Mit jelet az LCD kifejezés? Megoldás: Folyadék kristályos kijelző
+Folyadék kristályos kijelző
+Folyadék kijelző
+Sík képernyő
+Sugárcsöves kijelző
+
+11Mit jelent a PC rövidítés? Megoldás: Személyi számítógép
+Hordozható számítógép
+Zseb számítógép
+Személyi számítógép
+Ipari számítógép
+
+12Hol tárolódnak az éppen működő programok a számítógépen? Megoldás: A merevlemezen
+A merevlemezen
+CD-n
+Pendrive-on
+Az operatív tárban
+
+13. Az alábbiak közül mely funkciót lehet beállítani a BIOS-ban? Megoldás: Az alaplapi eszközök kikapcsolását (pl: Hálózati kártya)
+A merevlemezek partícióit
+A virtuális memória méretét
+Az alaplapi eszközök kikapcsolását (pl: Hálózati kártya)
+
+14. Az alábbiak közül melyik bemeneti eszköz? Megoldás: Érintőképernyő
+Érintőképernyő
+Nyomtató
+Monitor
+Hangszóró
