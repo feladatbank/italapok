@@ -1,0 +1,93 @@
+1 Milyen mértékegységet használunk egy áramkörben az ellenállás jellemzésére? Megoldás: ohm
+amper , ohm , volt , watt
+
+2 Melyik alkatrész lehet a legfontosabb az audio és videoszerkesztésre összerakott munkaállomás esetében? Megoldás:egy speciális videokártya
+egy speciális videokártya,nagy sebességű vezeték nélküli hálózati kártya,TV-tuner kártya,folyadékos CPU hűtőrendszer
+
+3 Mi jellemzi a vékony klienseket? Megoldás:A tárolási és a processzorerőforrások eléréséhez hálózati kapcsolat kell
+Nagy mennyiségű gyors RAM-ot igényelnek,A tárolási és a processzorerőforrások eléréséhez hálózati kapcsolat kell,Az összes feldolgozási feladatot maguk hajtják végre,Képesek több operációs rendszert futtatni egyszerre
+
+4 Melyik fogalom jelenti a processzor sebességének megnövelését a gyártó által beállított érték fölé? Megoldás:túlhajtás
+túlhajtás,több feladat végzése,több szálon futtatás,fojtás
+
+5 Mi jelzi hogy a CMOS-elem töltése alacsony? Megoldás: A számítógép idő- és dátumbeállítása nem megfelelő
+A számítógép idő- és dátumbeállítása nem megfelelő,A számítógép nem indul el,A teljesítmény a merevlemezen lévő fájlok elérése közben alacsony,A POST során sípoló hibajelzés jelentkezik
+
+6 Melyik PC-s bővítőkártya biztosítja az adatok hibatűrését? Megoldás: RAID-kártya
+digitalizáló kártya,RAID-kártya,SD-kártya,I/O kártya
+
+7 Melyik két információra van szükség a tápegység kiválasztásához? (Két jó válasz van) Megoldás:számítógépház formai tényezője,CPU típusa
+CPU típusa,számítógépház formai tényezője,telepített operációs rendszer, perifériák feszültségigénye
+
+8 Mi jelzi a tápegység meghibásodását? Megoldás:A számítógép nem mindig indul el
+A számítógép nem mindig indul el,A tápkábel nem csatlakozik megfelelően a tápegységhez vagy a fali ajzathoz,A számítógép egy POST hibakódot jelez,A kijelzőn csak egy villogó kurzor látható
+
+9 Melyik feladat része egy hardverkarbantartási eljárásnak? Megoldás:Ellenőrizzük és rögzítsük a kilazult kábeleket.
+Tekintsük át a biztonsági frissítéseket,Állítsuk be a monitor optimális felbontását,Távolítsuk el a port a merevlemez belsejéből,Ellenőrizzük és rögzítsük a kilazult kábeleket
+
+10 Melyik az a lépés a hibaelhárítás folyamatában amely segít az állandóan ismétlődő javítási folyamatok elkerülésében? Megoldás: A probléma és annak megoldásának dokumentációja
+Cselekvési terv készítése,A probléma azonosítása,A probléma és annak megoldásának dokumentációja,A megoldás végrehajtása
+
+11 A hibaelhárítás során mi a probléma azonosítását követő lépés? Megoldás: A lehetséges okok meghatározása
+A pontos ok meghatározása,A ténymegállapítások dokumentálása,A megoldás ellenőrzése,A lehetséges okok meghatározása
+
+12 Melyik tisztítóeszközt kell használni a számítógépházban az alkatrészekre rakódott por eltávolításához? Meoldás: sűrített levegő
+poroló,nedves ruha,sűrített levegő,vattapálcika
+
+13 Milyen hardver fejlesztés teszi lehetővé, hogy a játék PC processzora optimális teljesítményt nyújtson? Meoldás: nagy mennyiségű gyors RAM
+gyors EIDE meghajtó,folyadékhűtés,nagy mennyiségű gyors RAM,nagy kapacitású külső merevlemez
+
+14 Az alábbiak közül melyik két beállítást lehet módosítani a BIOS konfigurációs programjában? (Két jó válasz van) Meoldás:lapozófájl mérete,eszközök engedélyezése és letiltása
+eszközök engedélyezése és letiltása,indítási sorrend,illesztőprogramok,lapozófájl mérete
+
+15 Melyik biztonsági technológiát használják az esetleges támadások felderítése céljából? Meoldás:IDS
+proxykiszolgáló,IDS,IPS,tűzfal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
